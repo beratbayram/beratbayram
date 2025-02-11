@@ -14,3 +14,5 @@ Front-end Engineer
 ![](https://github-contributor-stats.vercel.app/api?username=beratbayram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![An image of @beratbayram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beratbayram)](https://holopin.io/@beratbayram)
