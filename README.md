@@ -11,4 +11,6 @@ Front-end Engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 [![An image of @beratbayram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beratbayram)](https://holopin.io/@beratbayram)
+-->
