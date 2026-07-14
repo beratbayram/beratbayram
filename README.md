@@ -38,12 +38,6 @@ Exercises from internship lectures I've given at TÜBİTAK BİLGEM YTE:
 [2024 cohort](https://github.com/beratbayram/yte-internship-2024) ·
 [2023 cohort](https://github.com/beratbayram/yte-internship-2023)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=beratbayram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beratbayram&theme=dark&hide_border=false&layout=compact)
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berat-bayram)
